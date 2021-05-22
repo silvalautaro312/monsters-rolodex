@@ -3,22 +3,20 @@ import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
+  constructor(){
+    super();
+
+    this.state = {
+      string: 'Hola Lauti Silva'
+    };
+  }
   render() {
     return (
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Hola mi nombre es Lautaro
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+          <p>{ this.state.string }</p>
+          <button onClick={() => this.setState({ string: 'Hola Lautaro' })}>Change Text</button>                   
         </header>
       </div>
     );
