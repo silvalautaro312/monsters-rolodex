@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//silvalautaro312.github.io/monsters-rolodex/static/css/main.0614e18e.chunk.css",
+    "main.js": "/http//silvalautaro312.github.io/monsters-rolodex/static/js/main.3dd02d94.chunk.js",
+    "main.js.map": "/http//silvalautaro312.github.io/monsters-rolodex/static/js/main.3dd02d94.chunk.js.map",
+    "runtime-main.js": "/http//silvalautaro312.github.io/monsters-rolodex/static/js/runtime-main.19e4c305.js",
+    "runtime-main.js.map": "/http//silvalautaro312.github.io/monsters-rolodex/static/js/runtime-main.19e4c305.js.map",
+    "static/js/2.bb7480b0.chunk.js": "/http//silvalautaro312.github.io/monsters-rolodex/static/js/2.bb7480b0.chunk.js",
+    "static/js/2.bb7480b0.chunk.js.map": "/http//silvalautaro312.github.io/monsters-rolodex/static/js/2.bb7480b0.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/http//silvalautaro312.github.io/monsters-rolodex/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/http//silvalautaro312.github.io/monsters-rolodex/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/http//silvalautaro312.github.io/monsters-rolodex/index.html",
+    "static/css/main.0614e18e.chunk.css.map": "/http//silvalautaro312.github.io/monsters-rolodex/static/css/main.0614e18e.chunk.css.map",
+    "static/js/2.bb7480b0.chunk.js.LICENSE.txt": "/http//silvalautaro312.github.io/monsters-rolodex/static/js/2.bb7480b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19e4c305.js",
+    "static/js/2.bb7480b0.chunk.js",
+    "static/css/main.0614e18e.chunk.css",
+    "static/js/main.3dd02d94.chunk.js"
+  ]
+}
